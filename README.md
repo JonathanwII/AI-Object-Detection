@@ -1,4 +1,4 @@
-# Artificial Intelligence Group Project: ATLAS Trafic Light Object Detection
+# Artificial Intelligence Group Project: ATLAS Traffic Light Object Detection
 
 # Group 5:
 [Amelia Cantika Permatasari](https://www.linkedin.com/in/amelia-cantika-permatasari-b72790187/) - 2540130516\
